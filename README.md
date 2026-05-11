@@ -52,7 +52,7 @@ Below is the vertical showcase of the segmentation pipeline results.
 ## 🎥 Video Demonstration
 Click the thumbnail below to watch the technical walkthrough and live simulation:
 
-[![Watch the video](https://img.youtube.com/vi/itw2XeYJprI/maxresdefault.jpg)](https://youtu.be/itw2XeYJprI?si=FVZCzmi9kIulS-zZ)
+[![Watch the video](https://youtu.be/4HHr_mnW15U?si=YkjQ7n9tatnb3JWb)
 
 ## 📄 Project Documentation
 Explore the full technical analysis and presentation slides:
