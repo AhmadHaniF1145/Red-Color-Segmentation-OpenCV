@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+output/
+*.rar
+*.zip
+.DS_Store
