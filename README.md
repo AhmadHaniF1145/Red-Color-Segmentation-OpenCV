@@ -12,7 +12,14 @@ This repository contains a high-performance **Red Color Segmentation** system im
 * **Lighting Robustness**: Tested under various light factors (0.4x to 1.6x Value) to ensure stability in different environments.
 * **Multi-Domain Validation**: Proven effective on Automotive, Horticulture (Apples), and Botany (Strawberries) datasets.
 
-## 🎨 Visual Results (Default Scenario)
+## 📊 Quantitative Results (Red Pixel Ratio)
+| Scenario | Automotive | Apples | Strawberries |
+| :--- | :---: | :---: | :---: |
+| **Default** | 9.16% | 41.88% | 11.85% |
+| **Tight** | 3.77% | 3.60% | 7.96% |
+| **Loose** | 10.26% | 54.69% | 12.81% |
+
+## 🎨 Visual Results (Step-by-Step)
 Below is the vertical showcase of the segmentation pipeline results.
 
 ### 🚗 1. Automotive Dataset
@@ -52,7 +59,7 @@ Below is the vertical showcase of the segmentation pipeline results.
 ## 🎥 Video Demonstration
 Click the thumbnail below to watch the technical walkthrough and live simulation:
 
-[![Watch the video](https://youtu.be/4HHr_mnW15U?si=YkjQ7n9tatnb3JWb)
+[![Watch the video](https://img.youtube.com/vi/4HHr_mnW15U/maxresdefault.jpg)](https://youtu.be/4HHr_mnW15U)
 
 ## 📄 Project Documentation
 Explore the full technical analysis and presentation slides:
